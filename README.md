@@ -34,6 +34,6 @@ LAB-4
 
 ![image](https://user-images.githubusercontent.com/118504859/220556882-1ad8b0ce-dd7a-4e01-98c2-7dbf07fea676.png)
 
-The program uses a do-while loop to display the menu and accept user input for the selected menu option. It uses a switch statement to perform the appropriate operation based on the selected menu option.
+This is the flow chart of Lab-4 in which it was said to the program that uses a do-while loop to display the menu and accept user input for the selected menu option. It uses a switch statement to perform the appropriate operation based on the selected menu option.
 
 The program also uses the Scanner class to accept user input from the console.
