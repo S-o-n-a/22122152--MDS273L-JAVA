@@ -28,3 +28,12 @@ LAB-3
 This is the flow chart of Lab-3 in which it was said to the program which should collect an integer array for which we should be given along with choices of mean, median and mode using user input and functions.
 
 Here we started the user who is giving inputs which includes the array length and elements then later on a menu is created which consist of mean,median and mode. From that we later on move to cases which is created using switch and at last we return the values of mean,median and mode.
+
+
+LAB-4
+
+![image](https://user-images.githubusercontent.com/118504859/220556882-1ad8b0ce-dd7a-4e01-98c2-7dbf07fea676.png)
+
+The program uses a do-while loop to display the menu and accept user input for the selected menu option. It uses a switch statement to perform the appropriate operation based on the selected menu option.
+
+The program also uses the Scanner class to accept user input from the console.
